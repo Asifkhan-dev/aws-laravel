@@ -1,4 +1,4 @@
-name: Deploy Application
+name: Deploy Application #2
 on: 
   push:
     branches:
