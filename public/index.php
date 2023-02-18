@@ -8,7 +8,7 @@
  */
 
 define('LARAVEL_START', microtime(true));
-
+echo "<h2> PHP is FUN</h2>";
 /*
 |--------------------------------------------------------------------------
 | Register The Auto Loader
